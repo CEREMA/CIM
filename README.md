@@ -24,13 +24,14 @@ Auteur : Alaeddine JERAD
 data_open                         # Données ouvertes, disponibles sur les portails
   raw                             # Données brutes
   processed                       # Données traitées
-data_terrain                      # Données terrain
+terrain_data                      # Données terrain
 	raw
 	  06-2024-Pole-Activites-Aix  # Campagne terrain réalisée à Aix en Juin 2024
 	  07-2024-Lorgues
 	processed
 	  06-2024-Pole-Activites-Aix
 	  07-2024-Lorgues
+terrain_photos                    # Echantillon de photos prises sur le terrain
 cartes                            # Cartes de préparation terrain 
 								  # + restitutions micro-cartographiques
 notebooks
@@ -158,6 +159,7 @@ xxx
 - https://wiki.openstreetmap.org/wiki/Opensidewalkmap
 - opensidewalkmap https://x.com/asturksever/status/1802702457295818931/photo/1
 - walkabout https://tasks.mapwith.ai/projects/165
+- OSMontrouge https://data.osmontrouge.fr/explore/dataset/emprise-des-trottoirs/information/
 
 ### Applis mobiles OSM
 

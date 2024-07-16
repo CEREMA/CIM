@@ -2,12 +2,6 @@ data
 *.tar.gz
 *.tar
 PRIVATE.md
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-notebooks/cache
->>>>>>> 8057e895a6d5bc53996544b3f7b4234b05c10d61
-=======
 notebooks/cache
 venv
->>>>>>> 60929215651d5b41758aff222108a2add8c5bc5d
+*ignore*
