@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [6.35834813117981, 43.49304354998495]}, "properties": {"first_seen_at": 1514556533000, "id": 520729812632085, "last_seen_at": 1514556533000, "value": "marking--discrete--stop-line"}}]}

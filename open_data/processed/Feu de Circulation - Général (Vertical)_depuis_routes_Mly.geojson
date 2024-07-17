@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [6.358138918876648, 43.492996850051014]}, "properties": {"first_seen_at": 1514556537000, "id": 314224596749163, "last_seen_at": 1514556537000, "value": "object--traffic-light--general-upright"}}]}

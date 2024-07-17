@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [6.358428597450256, 43.493090249882755]}, "properties": {"first_seen_at": 1514556532000, "id": 519959562709110, "last_seen_at": 1514556532000, "value": "object--manhole"}}]}

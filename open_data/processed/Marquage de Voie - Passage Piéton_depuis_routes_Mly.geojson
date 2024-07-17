@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [6.360569000244141, 43.493059116621566]}, "properties": {"first_seen_at": 1514556494000, "id": 520776379294095, "last_seen_at": 1514556494000, "value": "marking--discrete--crosswalk-zebra"}}]}

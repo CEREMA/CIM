@@ -1,0 +1,42 @@
+Barrière Temporaire,construction--barrier--temporary
+Passage Piéton (Simple),construction--flat--crosswalk-plain
+Allée,construction--flat--driveway
+Marquage de Voie - Flèche (Gauche),marking--discrete--arrow--left
+Marquage de Voie - Flèche (Droite),marking--discrete--arrow--right
+Marquage de Voie - Flèche (Séparation Gauche ou Tout Droit),marking--discrete--arrow--split-left-or-straight
+Marquage de Voie - Flèche (Séparation Droite ou Tout Droit),marking--discrete--arrow--split-right-or-straight
+Marquage de Voie - Flèche (Tout Droit),marking--discrete--arrow--straight
+Marquage de Voie - Passage Piéton,marking--discrete--crosswalk-zebra
+Marquage de Voie - Cédez le Passage (Rangée),marking--discrete--give-way-row
+Marquage de Voie - Cédez le Passage (Unique),marking--discrete--give-way-single
+Marquage de Voie - Autre,marking--discrete--other-marking
+Marquage de Voie - Ligne d'Arrêt,marking--discrete--stop-line
+Marquage de Voie - Symbole (Vélo),marking--discrete--symbol--bicycle
+Marquage de Voie - Texte,marking--discrete--text
+Bannière,object--banner
+Banc,object--bench
+Support à Vélo,object--bike-rack
+Avaloir,object--catch-basin
+Caméra de Vidéosurveillance,object--cctv-camera
+Borne d'Incendie,object--fire-hydrant
+Boîte de Jonction,object--junction-box
+Boîte aux Lettres,object--mailbox
+Regard,object--manhole
+Parcmètre,object--parking-meter
+Cabine Téléphonique,object--phone-booth
+Panneau Publicitaire,object--sign--advertisement
+Panneau d'Information,object--sign--information
+Panneau de Magasin,object--sign--store
+Lampadaire,object--street-light
+Poteau,object--support--pole
+Cadre de Panneau de Signalisation,object--support--traffic-sign-frame
+Poteau de Services Publics,object--support--utility-pole
+Cône de Signalisation,object--traffic-cone
+Feu de Circulation - Cyclistes,object--traffic-light--cyclists
+Feu de Circulation - Général (Horizontal),object--traffic-light--general-horizontal
+Feu de Circulation - Général (Simple),object--traffic-light--general-single
+Feu de Circulation - Général (Vertical),object--traffic-light--general-upright
+Feu de Circulation - Autre,object--traffic-light--other
+Feu de Circulation - Piétons,object--traffic-light--pedestrians
+Poubelle,object--trash-can
+Vanne d'Eau,object--water-valve

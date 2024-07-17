@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 2499494873, "addr:city": "Marseille", "addr:housenumber": "5", "amenity": "kindergarten", "contact:phone": "+33 4 91 85 10 54", "name": "Crèche Cinq Avenues", "opening_hours": "Mo-Fr 07:30-18:30", "operator": "Ville de Marseille", "source": "Bing +terrain", "nodes": null, "building": null }, "geometry": { "type": "Point", "coordinates": [ 5.3962425, 43.3023384 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8349786862, "addr:city": null, "addr:housenumber": null, "amenity": "kindergarten", "contact:phone": null, "name": "Crèche Fédération", "opening_hours": null, "operator": "Ville de Marseille", "source": null, "nodes": null, "building": null }, "geometry": { "type": "Point", "coordinates": [ 5.4037674, 43.3125909 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8423084535, "addr:city": null, "addr:housenumber": "93", "amenity": "kindergarten", "contact:phone": null, "name": "Le Cabanon enchanté", "opening_hours": null, "operator": "Assocition marseillaise pour la gestion des crèches", "source": null, "nodes": null, "building": null }, "geometry": { "type": "Point", "coordinates": [ 5.405146, 43.3120464 ] } },
+{ "type": "Feature", "properties": { "element_type": "way", "osmid": 68968587, "addr:city": null, "addr:housenumber": null, "amenity": "kindergarten", "contact:phone": null, "name": "Crèche Chute Lavie", "opening_hours": null, "operator": null, "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013", "nodes": [ 827809424, 828008631, 827817793, 827896216, 827803831, 2412567876, 827785593, 827809424 ], "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.3956794, 43.3159773 ], [ 5.3956351, 43.3159449 ], [ 5.3957031, 43.315894 ], [ 5.3958612, 43.3160052 ], [ 5.3958067, 43.3160447 ], [ 5.3957911, 43.3160332 ], [ 5.3957753, 43.3160443 ], [ 5.3956794, 43.3159773 ] ] ] } }
+]
+}

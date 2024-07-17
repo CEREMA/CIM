@@ -1,0 +1,334 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "ARBRES_LORGUES_0d4fbdad_8ec1_45db_95db_be3fb33cda2f": {
+        "enabled": true,
+        "groups": []
+      },
+      "Arbres_0436d679_c1ed_49cb_a866_3abc9976b131": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bancs_686785e2_3c8d_49dc_adfc_d3b6018f03ea": {
+        "enabled": true,
+        "groups": []
+      },
+      "LHD_Grille_Lorgues_9629c210_94ad_46eb_899e_b344bf9ffc0f": {
+        "enabled": true,
+        "groups": []
+      },
+      "Lampadaires_Terrain_Lorgues_d9949173_e93a_467a_8979_f247c55d7152": {
+        "enabled": true,
+        "groups": []
+      },
+      "MNH_ARBRES_b9e22fdb_2838_49aa_a388_efbe3710ac9e": {
+        "enabled": true,
+        "groups": []
+      },
+      "MNT_LORGUES_07011d82_d64e_4cb4_a181_7c5ac1613744": {
+        "enabled": true,
+        "groups": []
+      },
+      "REMPLISSAGE_ARBRES_LORGUES_ccee2bb2_6abe_4b4b_a3e2_df98f702709c": {
+        "enabled": true,
+        "groups": []
+      },
+      "Rue_eglise_B_Clemenceau_Republique_69623967_be7c_475e_96cd_1f8bb8b6ce4b": {
+        "enabled": true,
+        "groups": []
+      },
+      "Trottoires_Lorgues_depuis_Google_Sat_364bfe73_ac09_4e44_a1a2_0c6a4ae06a5d": {
+        "enabled": true,
+        "groups": []
+      },
+      "adresses_7f6d4484_c295_4151_bdac_eb567f9187de": {
+        "enabled": true,
+        "groups": []
+      },
+      "batiments_depuis_osm_36a16b8a_9ba9_4cde_a4e1_4ecda62aeb91": {
+        "enabled": true,
+        "groups": []
+      },
+      "borne_amovible_ee6a5ee0_2b1f_4d74_b3a1_38d64ac71f09": {
+        "enabled": true,
+        "groups": []
+      },
+      "borne_incendie_8cbdde5b_00d7_48ba_aacc_a5320019513e": {
+        "enabled": true,
+        "groups": []
+      },
+      "fontaine_0484a0a1_3f2f_41cc_bbd4_bc5d584cb3de": {
+        "enabled": true,
+        "groups": []
+      },
+      "fontaine_f4e62353_74c8_4d59_b7ef_f6602eb8ba2b": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:232ebf19": {
+        "enabled": true,
+        "groups": []
+      },
+      "grille_lorgues_dc080591_8a26_463f_bc06_18d7766cb1fb": {
+        "enabled": true,
+        "groups": []
+      },
+      "iris_lorgues_d8d6e97d_4bde_49d7_8150_4750bfc8694a": {
+        "enabled": true,
+        "groups": []
+      },
+      "jardini_re_surface_d7f59e27_418c_4f2f_be9a_6c6399bbcb1a": {
+        "enabled": true,
+        "groups": []
+      },
+      "jardiniaires_cbdcd365_ef99_491a_959f_2a2a730d28ce": {
+        "enabled": true,
+        "groups": []
+      },
+      "lignes_lorgues_osm_b61971ca_f79e_46bc_ba55_818539ab92c7": {
+        "enabled": true,
+        "groups": []
+      },
+      "panneaux_8dbb421c_0bf0_412f_8021_445a3cc6f390": {
+        "enabled": true,
+        "groups": []
+      },
+      "pied_arbre_bf532b12_1a4e_4cd6_a442_63d58d8138b2": {
+        "enabled": true,
+        "groups": []
+      },
+      "pierre_51c36500_f780_4796_9642_fe056f753672": {
+        "enabled": true,
+        "groups": []
+      },
+      "plugin:gsielevtile": {
+        "enabled": true,
+        "groups": []
+      },
+      "potelets_2ceb861a_31de_4968_a9fe_1587e487fa77": {
+        "enabled": true,
+        "groups": []
+      },
+      "poubelle_907cecc0_fdad_4b09_ad7a_d35fb66da2cf": {
+        "enabled": true,
+        "groups": []
+      },
+      "rambarde_escalier_e078c727_47fe_416e_afd1_821e1d402346": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 4,
+      "layerId": "LHD_Grille_Lorgues_9629c210_94ad_46eb_899e_b344bf9ffc0f",
+      "name": "LHD_Grille_Lorgues",
+      "properties": {
+        "url": "file:///C:/Users/alaeddine.jerad/Box/Cerema/60-MED/67-DTVB/675-Vie_des_unites_DTVB/675-5-GIDI/3_Etudes/2024/2024-CIM/01-Data&SIG/QGIS Lorgues/Lidar HD Traité - Lorgues/ept_LHD_Grille_Lorgues.copc/ept.json"
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "REMPLISSAGE_ARBRES_LORGUES_ccee2bb2_6abe_4b4b_a3e2_df98f702709c",
+      "name": "REMPLISSAGE ARBRES LORGUES",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "MNH_ARBRES_b9e22fdb_2838_49aa_a388_efbe3710ac9e",
+      "name": "MNH ARBRES",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "ARBRES_LORGUES_0d4fbdad_8ec1_45db_95db_be3fb33cda2f",
+      "name": "ARBRES LORGUES",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "MNT_LORGUES_07011d82_d64e_4cb4_a181_7c5ac1613744",
+      "name": "MNT LORGUES",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "rambarde_escalier_e078c727_47fe_416e_afd1_821e1d402346",
+      "name": "Rambardes_Terrain_Lorgues — rambarde_escalier",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "poubelle_907cecc0_fdad_4b09_ad7a_d35fb66da2cf",
+      "name": "Poubelle_Terrain_Lorgues — poubelle",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "potelets_2ceb861a_31de_4968_a9fe_1587e487fa77",
+      "name": "Potelets_Terrain_Lorgues — potelets",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "panneaux_8dbb421c_0bf0_412f_8021_445a3cc6f390",
+      "name": "Panneau_direction_Terrain_Lorgues — panneaux",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Lampadaires_Terrain_Lorgues_d9949173_e93a_467a_8979_f247c55d7152",
+      "name": "Lampadaires_Terrain_Lorgues",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "jardiniaires_cbdcd365_ef99_491a_959f_2a2a730d28ce",
+      "name": "Jardiniaires_points_Terrain_Lorgues — jardiniaires",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "borne_incendie_8cbdde5b_00d7_48ba_aacc_a5320019513e",
+      "name": "Borne_d'incendie_Terrain_Lorgues — borne_incendie",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "fontaine_f4e62353_74c8_4d59_b7ef_f6602eb8ba2b",
+      "name": "Fontaines eau potable OSM Lorgues — fontaine",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "borne_amovible_ee6a5ee0_2b1f_4d74_b3a1_38d64ac71f09",
+      "name": "Borne_amovible_Terrain_Lorgues — borne_amovible",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "pierre_51c36500_f780_4796_9642_fe056f753672",
+      "name": "Bloc de pierre_Terrain_Lorgues — pierre",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Bancs_686785e2_3c8d_49dc_adfc_d3b6018f03ea",
+      "name": "Bancs_Terrain_Lorgues — Bancs",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Arbres_0436d679_c1ed_49cb_a866_3abc9976b131",
+      "name": "Arbres_Terrain_Lorgues — Arbres",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "adresses_7f6d4484_c295_4151_bdac_eb567f9187de",
+      "name": "Adresses Terrain Lorgues — adresses",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Rue_eglise_B_Clemenceau_Republique_69623967_be7c_475e_96cd_1f8bb8b6ce4b",
+      "name": "Rue eglise_B Clemenceau_Republique_OSM — Rue eglise_B Clemenceau_Republique",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "lignes_lorgues_osm_b61971ca_f79e_46bc_ba55_818539ab92c7",
+      "name": "Routes OSM Lorgues — lignes_lorgues_osm",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "batiments_depuis_osm_36a16b8a_9ba9_4cde_a4e1_4ecda62aeb91",
+      "name": "Batiments OSM Terrain Lorgues — batiments_depuis_osm",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "pied_arbre_bf532b12_1a4e_4cd6_a442_63d58d8138b2",
+      "name": "Pied d_arbre_Terrain_Lorgues — pied_arbre",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "jardini_re_surface_d7f59e27_418c_4f2f_be9a_6c6399bbcb1a",
+      "name": "Jardiniaires_Terrain_Lorgues — jardini_re_surface",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "fontaine_0484a0a1_3f2f_41cc_bbd4_bc5d584cb3de",
+      "name": "Fontaines Terrain Lorgues — fontaine",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "iris_lorgues_d8d6e97d_4bde_49d7_8150_4750bfc8694a",
+      "name": "IRIS Ville Lorgues — iris_lorgues",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "grille_lorgues_dc080591_8a26_463f_bc06_18d7766cb1fb",
+      "name": "Grille Terrain Lorgues — grille_lorgues",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Trottoires_Lorgues_depuis_Google_Sat_364bfe73_ac09_4e44_a1a2_0c6a4ae06a5d",
+      "name": "Trottoires_Lorgues_depuis_Google_Sat",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "plugin:gsielevtile",
+      "name": "GSI Elevation Tile",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:232ebf19",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 20703
+}
