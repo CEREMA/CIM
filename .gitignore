@@ -5,3 +5,4 @@ PRIVATE.md
 notebooks/cache
 venv
 *ignore*
+data_open
