@@ -125,6 +125,7 @@ Les notebooks ont servi à préparer les scripts QGIS. Ils sont dans le dossier 
 | 14.4-Création de la trace GPX horodatée - Rover RTK et GoPro séparés.ipynb | Création d'une trace depuis les points trackpoints collectés depuis SWMaps pour le Pôle d'Activités avec GoPro et RTK séparés l'un de l'autre (vérification des interférences et qualité du signal) | Terrain       |
 | 16-Liste_des_objets_Point_Mapillary.ipynb                    | Liste les objets pouvant être détectés par Mapillary         | Terrain       |
 | 17-Export-GPKG-Layers-For-JOSM--MR.ipynb                     | Exporte les différentes couches contenues dans un GPKG unique issu de SWMaps | Terrain       |
+| 18-Données-OSM-Alaeddine                                     | Récupérer les données saisies par un utilisateur             | Terrain       |
 
 ### Projets QGIS
 
