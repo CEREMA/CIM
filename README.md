@@ -108,6 +108,7 @@ Les notebooks ont servi à préparer les scripts QGIS. Ils sont dans le dossier 
 | 05.1-arrets-de-transport-datagouv.ipynb                      | Arrêts de transport depuis DataGouv                          | OpenData      |
 | 05.2-arrets-de-transport-datasud.ipynb                       | Arrêts de transport depuis DataSud                           | OpenData      |
 | 05.3-arrets-de-transport-OSM.ipynb.ipynb                     | Arrêts de transport depuis OSM                               | OpenData      |
+| 05.4-Arrêts-Transport-API-GTFS-DataGouv.ipynb                | Arrêts de transport depuis API GTFS Data Gouv fr             |               |
 | 06-passage_piétons_OSM.ipynb                                 | Passages piétons depuis OSM                                  | OpenData      |
 | 07.1-trottoirs_OSM.ipynb                                     | Trottoirs depuis OSM<br />`footway:sidewalk`                 | OpenData      |
 | 07.2-Présence_trottoir_OSM.ipynb                             | Présence de trottoir<br />`sidewalk': ['both','left','right']` | OpenData      |
