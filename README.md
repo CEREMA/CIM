@@ -16,7 +16,7 @@ Sur le territoire de xxx, j'ai xxx
 
 / Parler de la marchabilité, de l'accessibilité /
 
-Auteur : Alaeddine JERAD
+Auteur : Alaeddine JERAD ([compte OpenStreetMap](https://www.openstreetmap.org/user/Alaeddinejerad))
 
 ## Contenu
 
@@ -50,7 +50,7 @@ livrables                         # Livrables (rapport + projet blender)
 
 ## Utilisation
 
-### Scripts
+### Scripts QGIS
 
 Dans le dossier qgis-scripts, il y a :
 
@@ -90,19 +90,40 @@ Voici comment installer une nouvelle librairie python dans QGIS :
 - Taper `import mercantile` pour tester si la librairie existe
 - Sinon, essayer https://www.youtube.com/watch?v=TPMHhgR-r7E ou https://landscapearchaeology.org/2018/installing-python-packages-in-qgis-3-for-windows/
 
-### Notebooks
+### Notebooks Python
 
-Les notebooks ont servi à préparer les scripts QGIS. 
+Les notebooks ont servi à préparer les scripts QGIS. Ils sont dans le dossier **notebooks** :
 
-| Besoin                            | Mode d'acquisition (mapillary / opendata / terrain / panoramax) | Notebook                                                     | Utilité               |
-| --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
-| Récupérer les écoles              | opendata                                                     | xxx.ipynb                                                    | Expérimental          |
-| Récupérer les arrêts de transport | data                                                         | xxx.ipynb                                                    | Expérimental          |
-| Récupérer les lampadaires         |                                                              |                                                              | Utilité pour le sujet |
-| xxx                               | xxx                                                          | xxx                                                          |                       |
-| xxx                               | xxx                                                          | xxx                                                          |                       |
-| Recaler une trace                 |                                                              | xxx (voir la méthode Recalage des photos avec JOSM expliquée ci-dessous) | Utilisé               |
-|                                   |                                                              |                                                              |                       |
+| Notebook                                                     | Action                                                       | Mode d'action |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
+| 02.1-Eclairage_datasud.ipynb                                 | Lampadaires de DataSud                                       | OpenData      |
+| 02.2-Eclairage_OSM.ipynb                                     | Lampadaires d'OSM                                            | OpenData      |
+| 02.3-Eclairage_Mapillary.ipynb                               | Lampadaires de Mapillary                                     | OpenData      |
+| 02.4-Eclairage_Mapillary_Par_Routes_Lorgues.ipynb            | Lampadaires le long des rues de Lorgues                      | OpenData      |
+| 02.4.a-Eclairage_Mapillary_Par_Routes--mr.ipynb              | Lampadaires le long des rues de Lorgues (version Mathieu)    | OpenData      |
+| 02.5-Objets_Points_Mapillary_Par_Routes_Lorgues.ipynb        | Objets points Mapillary le long des rues de Lorgues          | OpenData      |
+| 03-Education_OSM.ipynb                                       | Ecoles sur une étendue géographique donnée                   | OpenData      |
+| 04.1-Points_Mapillary.ipynb                                  | Objets points Mapillary                                      | OpenData      |
+| 04.2-Paneaux_signalisation_Mapillary.ipynb                   | Panneaux de signalisation depuis Mapillary                   | OpenData      |
+| 05.1-arrets-de-transport-datagouv.ipynb                      | Arrêts de transport depuis DataGouv                          | OpenData      |
+| 05.2-arrets-de-transport-datasud.ipynb                       | Arrêts de transport depuis DataSud                           | OpenData      |
+| 05.3-arrets-de-transport-OSM.ipynb.ipynb                     | Arrêts de transport depuis OSM                               | OpenData      |
+| 06-passage_piétons_OSM.ipynb                                 | Passages piétons depuis OSM                                  | OpenData      |
+| 07.1-trottoirs_OSM.ipynb                                     | Trottoirs depuis OSM<br />`footway:sidewalk`                 | OpenData      |
+| 07.2-Présence_trottoir_OSM.ipynb                             | Présence de trottoir<br />`sidewalk': ['both','left','right']` | OpenData      |
+| 08-rue_piétonne_OSM.ipynb                                    | Rue piétonne depuis OSM<br />`'highway': 'pedestrian'`       | OpenData      |
+| 09-Voie_en_zone_de_rencontre_OSM.ipynb                       | Voie en zone de rencontre<br />`'highway': 'living_street', 'maxspeed':'20'` | OpenData      |
+| 10-Voie_en_zone_30_OSM.ipynb                                 | `'zone:maxspeed': 'FR:30','maxspeed': '30'`                  | OpenData      |
+| 11-Voie_en_zone_40_OSM-Copy1.ipynb                           | `'zone:maxspeed': 'FR:40','maxspeed': '40'`                  | OpenData      |
+| 12-Voie_en_zone_50_OSM.ipynb                                 | `'zone:maxspeed': 'FR:50','maxspeed': '50'`                  | OpenData      |
+| 13.1-Recalage points Gopro.ipynb (expérimental)              | Expérience de recalage des points par plus proche voisin     | Terrain       |
+| 13-Vérification recalage points Gopro.ipynb                  | Vérification du recalage photo réalisé par JOSM              | Terrain       |
+| 14.1-Création de la trace GPX horodatée - Lorgues.ipynb      | Création d'une trace depuis les points trackpoints collectés depuis SWMaps pour Lorgues | Terrain       |
+| 14.2-Création de la trace GPX horodatée - Pole d'activités.ipynb | Création d'une trace depuis les points trackpoints collectés depuis SWMaps pour le Pôle d'Activités | Terrain       |
+| 14.3-Création de la trace GPX horodatée - Rover RTK et GoPro collés.ipynb | Création d'une trace depuis les points trackpoints collectés depuis SWMaps pour le Pôle d'Activités avec GoPro et RTK collés l'un à l'autre (vérification des interférences et qualité du signal) | Terrain       |
+| 14.4-Création de la trace GPX horodatée - Rover RTK et GoPro séparés.ipynb | Création d'une trace depuis les points trackpoints collectés depuis SWMaps pour le Pôle d'Activités avec GoPro et RTK séparés l'un de l'autre (vérification des interférences et qualité du signal) | Terrain       |
+| 16-Liste_des_objets_Point_Mapillary.ipynb                    | Liste les objets pouvant être détectés par Mapillary         | Terrain       |
+| 17-Export-GPKG-Layers-For-JOSM--MR.ipynb                     | Exporte les différentes couches contenues dans un GPKG unique issu de SWMaps | Terrain       |
 
 ### Projets QGIS
 
