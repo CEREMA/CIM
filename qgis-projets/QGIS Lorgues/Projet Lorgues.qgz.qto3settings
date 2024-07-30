@@ -12,7 +12,15 @@
         "enabled": true,
         "groups": []
       },
+      "BDTOPO_V3_batiment_8dcccf94_954e_49ea_945a_c4608056177e": {
+        "enabled": true,
+        "groups": []
+      },
       "Bancs_686785e2_3c8d_49dc_adfc_d3b6018f03ea": {
+        "enabled": true,
+        "groups": []
+      },
+      "Batiments_BD_TOPO_Terrain_Lorgues_6395f982_7bac_4cb4_ad04_f5d1210ada81": {
         "enabled": true,
         "groups": []
       },
@@ -21,6 +29,10 @@
         "groups": []
       },
       "Lampadaires_Terrain_Lorgues_d9949173_e93a_467a_8979_f247c55d7152": {
+        "enabled": true,
+        "groups": []
+      },
+      "Lorgues_Tracks_GPKG___TrackPoints_f20dcd88_314a_428b_94a9_4097d1bb3b20": {
         "enabled": true,
         "groups": []
       },
@@ -40,11 +52,19 @@
         "enabled": true,
         "groups": []
       },
+      "TrackPoints_ebe66600_946c_4455_96b6_963aeff87473": {
+        "enabled": true,
+        "groups": []
+      },
       "Trottoires_Lorgues_depuis_Google_Sat_364bfe73_ac09_4e44_a1a2_0c6a4ae06a5d": {
         "enabled": true,
         "groups": []
       },
       "adresses_7f6d4484_c295_4151_bdac_eb567f9187de": {
+        "enabled": true,
+        "groups": []
+      },
+      "batigml_a7ed3820_1073_46d2_992e_cf90577ea4ab": {
         "enabled": true,
         "groups": []
       },
@@ -125,11 +145,46 @@
   },
   "LAYERS": [
     {
+      "geomType": 3,
+      "layerId": "batigml_a7ed3820_1073_46d2_992e_cf90577ea4ab",
+      "name": "batigml",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Batiments_BD_TOPO_Terrain_Lorgues_6395f982_7bac_4cb4_ad04_f5d1210ada81",
+      "name": "Batiments BD TOPO Terrain Lorgues",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "BDTOPO_V3_batiment_8dcccf94_954e_49ea_945a_c4608056177e",
+      "name": "BDTOPO : Bâtiments",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "TrackPoints_ebe66600_946c_4455_96b6_963aeff87473",
+      "name": "Lorgues Tracks GPKG — TrackPoints",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Lorgues_Tracks_GPKG___TrackPoints_f20dcd88_314a_428b_94a9_4097d1bb3b20",
+      "name": "Lorgues Tracks GPKG — TrackPoints copie",
+      "properties": {},
+      "visible": false
+    },
+    {
       "geomType": 4,
       "layerId": "LHD_Grille_Lorgues_9629c210_94ad_46eb_899e_b344bf9ffc0f",
       "name": "LHD_Grille_Lorgues",
       "properties": {
-        "url": "file:///C:/Users/alaeddine.jerad/Box/Cerema/60-MED/67-DTVB/675-Vie_des_unites_DTVB/675-5-GIDI/3_Etudes/2024/2024-CIM/01-Data&SIG/QGIS Lorgues/Lidar HD Traité - Lorgues/ept_LHD_Grille_Lorgues.copc/ept.json"
+        "url": "file:///C:/git_repos/CIM/qgis-projets/QGIS Lorgues/Lidar HD Traité - Lorgues/ept_LHD_Grille_Lorgues.copc/ept.json"
       },
       "visible": false
     },
