@@ -1,4 +1,4 @@
-# CIM
+# City Information Modeling
 
 ![](https://live.staticflickr.com/5074/14237749595_bf0e61ae25_w_d.jpg)
 
@@ -18,50 +18,80 @@ Sur le territoire de xxx, j'ai xxx
 
 Auteur : Alaeddine JERAD ([compte OpenStreetMap](https://www.openstreetmap.org/user/Alaeddinejerad))
 
-## Contenu
+## 🔽 Installation
+
+```
+git clone https://github.com/CEREMA/CIM.git
+cd CIM
+python -m venv venv
+venv\script\activate
+pip install -r requirements.txt
+```
+
+## 📂 Contenu
+
+```
+data_open      # Données ouvertes, disponibles sur les portails
+terrain_data   # Données terrain
+terrain_photos # Echantillon de photos prises sur le terrain
+cartes         # Cartes de préparation terrain + restitutions micro-cartographiques
+notebooks      # Notebooks Python
+qgis_projets   # Projets QGIS
+qgis-scripts   # Scripts QGIS
+livrables      # Livrables (rapport + projet blender)
+```
+
+## 💾 Données
+
+### ☁ Organisation des données OpenData
+
+**raw** pour les données brutes, processed **pour** les données de raw qui ont été retraitées
 
 ```
 data_open                         # Données ouvertes, disponibles sur les portails
   raw                             # Données brutes
   processed                       # Données traitées
-terrain_data                      # Données terrain
-	raw
-	  06-2024-Pole-Activites-Aix  # Campagne terrain réalisée à Aix en Juin 2024
-	  07-2024-Lorgues
-	processed
-	  06-2024-Pole-Activites-Aix
-	  07-2024-Lorgues
-terrain_photos                    # Echantillon de photos prises sur le terrain
-cartes                            # Cartes de préparation terrain 
-								  # + restitutions micro-cartographiques
-notebooks
-qgis-projets                      # Projets QGIS
-qgis-scripts                      # Scripts QGIS
-livrables                         # Livrables (rapport + projet blender)
 ```
 
-## Matériel terrain utilisé
+### 🥾 Organisation des données de terrain
+
+Un dossier par sortie terrain
+
+```
+terrain_data                      
+	raw
+        Aix Faubourg                      # troisième sortie
+        Lorgues                           # seconde sortie
+        Pole d'activité d'aix en provence # première sortie
+	processed
+        Aix Faubourg
+        Lorgues
+        Pole d'activité d'aix en provence
+```
+
+## 📲 Matériel terrain utilisé
 
 ![](imagematos)
 
 - GOPRO xxx
 - RTK Centipede
-- Smartphone avec le logiciel SWMaps
+- Smartphone avec le logiciel SWMaps + tests QField + test [Lefebure NTRIP Client](https://play.google.com/store/apps/details?id=com.lefebure.ntripclient&hl=fr)
 
-## Utilisation
+## ⚙ Scripts QGIS
 
-### Scripts QGIS
+### Liste des scripts
 
-Dans le dossier qgis-scripts, il y a :
+```
+Eclairage_bbox.py
+Eclairage_DATASUD_bbox.py
+Eclairage_mly_bbox.py
+Eclairage_OSM_bbox.py
+mapillary-key.txt
+```
 
-- xxx qui permet de xxx
-- xxx
+### ⚠ Prérequis
 
-Eclairage_bbox.py fait appel à :
-
-- xxx
-
-Pour utiliser un script dans QGIS, il faut xxx
+#### Création de compte Mapillary
 
 Pour le script Eclairage_mly_bbox.py, il est nécessaire de créer un compte sur mapillary.
 
@@ -76,21 +106,25 @@ Le script Eclairage_mly_bbox.py peut être adapté pour récupérer d'autres obj
 
 #### Installation de librairies Python dans QGIS
 
-Certains scripts QGIS nécessitent, pour fonctionner, d'installer certaines librairies python.
+Certains scripts QGIS nécessitent, pour fonctionner, d'installer certaines librairies python. Il s'agit en particulier du script faisant appel à Mapillary.
 
-En particulier, le script faisant appel à Mapillary.
+Voici comment installer une nouvelle librairie python dans QGIS sous Windows :
 
-Voici comment installer une nouvelle librairie python dans QGIS :
-
-- Si QGIS 3.26, aller dans `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS 3.26.0`
+- Si par exemple, nous sommes sous QGIS 3.26, aller dans `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS 3.26.0`
 - Ouvrir **OSGeo4W Shell**
 - Taper `pip install mercantile vt2geojson geopandas pandas`
-- Ouvrir QGIS
+- Ouvrir **QGIS**
 - Aller dans `Extensions > Console Python`
 - Taper `import mercantile` pour tester si la librairie existe
 - Sinon, essayer https://www.youtube.com/watch?v=TPMHhgR-r7E ou https://landscapearchaeology.org/2018/installing-python-packages-in-qgis-3-for-windows/
 
-### Notebooks Python
+### Utilisation
+
+Pour utiliser un script dans QGIS, il faut 
+
+xxx
+
+## 🐍 Notebooks Python
 
 Les notebooks ont servi à préparer les scripts QGIS. Ils sont dans le dossier **notebooks** :
 
@@ -126,20 +160,35 @@ Les notebooks ont servi à préparer les scripts QGIS. Ils sont dans le dossier 
 | 16-Liste_des_objets_Point_Mapillary.ipynb                    | Liste les objets pouvant être détectés par Mapillary         | Terrain       |
 | 17-Export-GPKG-Layers-For-JOSM--MR.ipynb                     | Exporte les différentes couches contenues dans un GPKG unique issu de SWMaps | Terrain       |
 | 18-Données-OSM-Alaeddine                                     | Récupérer les données saisies par un utilisateur             | Terrain       |
+| 19-Audit-Qualité-Données-Aix-Faubourg.ipynb                  | Précision des objets saisis et des zones de saisie           | Terrain       |
 
-### Projets QGIS
+Pour les ouvrir :
+
+Ouvrir l'invite de commandes (cmd)
+
+Puis, lancer jupyter dans le dossier notebooks
+
+```
+cd mondossiercim
+venv\script\activate
+jupyter notebook
+```
+
+## 🗺 Projets QGIS
 
 xxx
 
-### Projet Blender
+## 🤖 Projet Blender
 
 xxx
 
-### Recalage des photos avec JOSM
+## 📷 Recalage des photos avec JOSM
+
+Pour recaler des photos avec JOSM, il faut :
 
 xxx
 
-### Recalage des adresses avec OSM Id
+## Recalage des adresses sous OSM Id
 
 xxx
 
@@ -154,7 +203,7 @@ xxx
   - Data Management Plan
 
 
-## Ressources
+## 📚 Ressources
 
 ### Vidéos utiles
 
