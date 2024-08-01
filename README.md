@@ -224,7 +224,7 @@ xxx
 
 - tree_row
 
-#### Trottoirs
+#### 🚶‍♀️ Trottoirs
 
 - https://wiki.openstreetmap.org/wiki/Key:sidewalk
 - https://wiki.openstreetmap.org/wiki/Key:width
@@ -232,6 +232,15 @@ xxx
 - opensidewalkmap https://x.com/asturksever/status/1802702457295818931/photo/1
 - walkabout https://tasks.mapwith.ai/projects/165
 - OSMontrouge https://data.osmontrouge.fr/explore/dataset/emprise-des-trottoirs/information/
+- Cartographier les trottoirs
+  - area:highway=footway
+    - https://forum.openstreetmap.fr/t/les-trottoirs-sont-des-surfaces/21552/16
+    - https://wiki.openstreetmap.org/wiki/Key:area:highway
+    - https://wiki.openstreetmap.org/wiki/Tag%3Aarea%3Ahighway%3Dfootway
+      - *This tag is not the same as `highway=footway` + `area=yes` which represents a non-linear feature such as a square or plaza where multi-directional travel is possible.*
+
+    - https://wiki.openstreetmap.org/wiki/Talk:Tag:highway%3Dfootway#Mapping_footway_as_square_is_an_incorrect_tagging_for_renderer
+
 
 ### Applis mobiles OSM
 
