@@ -1,0 +1,950 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-08-01T09:50:28Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5043560",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "name": "Cours Sextius",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4435731,
+            43.5315014
+          ],
+          [
+            5.4436339,
+            43.5312641
+          ]
+        ]
+      },
+      "id": "way/5043560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/7989602",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue de la Treille",
+        "name:oc": "Carriera de la Trelha",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.444454,
+            43.5295616
+          ],
+          [
+            5.4445034,
+            43.5298313
+          ]
+        ]
+      },
+      "id": "way/7989602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/7989615",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue des Muletiers",
+        "name:oc": "Carriera dei Mulatiers",
+        "oneway": "yes",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4445034,
+            43.5298313
+          ],
+          [
+            5.4452628,
+            43.529842
+          ],
+          [
+            5.445379,
+            43.5298486
+          ]
+        ]
+      },
+      "id": "way/7989615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/7989631",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue Lieutaud",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4452296,
+            43.5294788
+          ],
+          [
+            5.445261,
+            43.5298219
+          ],
+          [
+            5.4452617,
+            43.5298304
+          ],
+          [
+            5.4452628,
+            43.529842
+          ]
+        ]
+      },
+      "id": "way/7989631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/7989713",
+        "cycleway:right": "no",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue des Étuves",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4448567,
+            43.5317259
+          ],
+          [
+            5.4451686,
+            43.5318002
+          ],
+          [
+            5.4459024,
+            43.5319445
+          ]
+        ]
+      },
+      "id": "way/7989713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/7989715",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue des Étuves",
+        "name:oc": "Carriera deis Estubas",
+        "oneway": "no",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4452244,
+            43.5308865
+          ],
+          [
+            5.4451272,
+            43.5311971
+          ],
+          [
+            5.4450922,
+            43.5312656
+          ]
+        ]
+      },
+      "id": "way/7989715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/7989725",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue Mérindol",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt",
+        "width": "2.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.445379,
+            43.5298486
+          ],
+          [
+            5.4451721,
+            43.5301773
+          ]
+        ]
+      },
+      "id": "way/7989725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/7989726",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue Nouestre-Seigno",
+        "oneway": "yes",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4451721,
+            43.5301773
+          ],
+          [
+            5.4444864,
+            43.5301751
+          ]
+        ]
+      },
+      "id": "way/7989726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25599054",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue Lisse des Cordeliers",
+        "oneway": "yes",
+        "parking:lane:both": "no",
+        "parking:lane:left": "parallel",
+        "parking:lane:left:parallel": "street_side",
+        "parking:lane:right": "no",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4436212,
+            43.5271039
+          ],
+          [
+            5.4437003,
+            43.527409
+          ],
+          [
+            5.4438129,
+            43.5277808
+          ],
+          [
+            5.4439061,
+            43.5281086
+          ],
+          [
+            5.444003,
+            43.528419
+          ],
+          [
+            5.4441026,
+            43.5286852
+          ],
+          [
+            5.444093,
+            43.5289084
+          ],
+          [
+            5.4442206,
+            43.5291646
+          ],
+          [
+            5.4443541,
+            43.5293727
+          ],
+          [
+            5.444454,
+            43.5295616
+          ]
+        ]
+      },
+      "id": "way/25599054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27388895",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue du Cancel",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4460407,
+            43.5300048
+          ],
+          [
+            5.446035,
+            43.5300152
+          ],
+          [
+            5.4457945,
+            43.530414
+          ],
+          [
+            5.4454729,
+            43.530952
+          ]
+        ]
+      },
+      "id": "way/27388895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27390561",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "motor_vehicle": "no",
+        "name": "Cours Sextius",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4436339,
+            43.5312641
+          ],
+          [
+            5.4438311,
+            43.5308977
+          ],
+          [
+            5.4438401,
+            43.5308844
+          ],
+          [
+            5.4440688,
+            43.5305451
+          ]
+        ]
+      },
+      "id": "way/27390561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27390567",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue du Bon Pasteur",
+        "name:oc": "Carriera dau Potz Caud",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4447563,
+            43.5307644
+          ],
+          [
+            5.4443878,
+            43.5306736
+          ]
+        ]
+      },
+      "id": "way/27390567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30723943",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed:type": "FR:urban",
+        "name": "Avenue des Thermes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4442618,
+            43.5295795
+          ],
+          [
+            5.4442059,
+            43.5296043
+          ],
+          [
+            5.4442392,
+            43.5297396
+          ],
+          [
+            5.4442914,
+            43.5299123
+          ],
+          [
+            5.4443324,
+            43.5301795
+          ],
+          [
+            5.4443361,
+            43.5303024
+          ],
+          [
+            5.4443162,
+            43.5304217
+          ]
+        ]
+      },
+      "id": "way/30723943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184230246",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue des Cordeliers",
+        "oneway": "-1",
+        "oneway:bicycle": "no",
+        "parking:lane:both": "no",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4452296,
+            43.5294788
+          ],
+          [
+            5.4445273,
+            43.5295543
+          ],
+          [
+            5.444454,
+            43.5295616
+          ]
+        ]
+      },
+      "id": "way/184230246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/387226353",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue des Étuves",
+        "name:oc": "Carriera deis Estubas",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4450922,
+            43.5312656
+          ],
+          [
+            5.4450282,
+            43.5313906
+          ],
+          [
+            5.4450134,
+            43.5314196
+          ],
+          [
+            5.4448567,
+            43.5317259
+          ]
+        ]
+      },
+      "id": "way/387226353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/595100753",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue de la Treille",
+        "name:oc": "Carriera de la Trelha",
+        "oneway": "yes",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4444864,
+            43.5301751
+          ],
+          [
+            5.4444908,
+            43.5300114
+          ],
+          [
+            5.4445061,
+            43.529857
+          ],
+          [
+            5.4445034,
+            43.5298313
+          ]
+        ]
+      },
+      "id": "way/595100753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/595100756",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxweight": "3.5",
+        "name": "Rue des Cordeliers",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "parking:lane:both": "no",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4441099,
+            43.5295651
+          ],
+          [
+            5.4442618,
+            43.5295795
+          ],
+          [
+            5.444454,
+            43.5295616
+          ]
+        ]
+      },
+      "id": "way/595100756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/595100762",
+        "cycleway:left": "opposite",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue du Bon Pasteur",
+        "name:oc": "Carriera dau Potz Caud",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4454729,
+            43.530952
+          ],
+          [
+            5.4453005,
+            43.5309066
+          ],
+          [
+            5.4452244,
+            43.5308865
+          ]
+        ]
+      },
+      "id": "way/595100762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/595100765",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue du Bon Pasteur",
+        "name:oc": "Carriera dau Potz Caud",
+        "old_name:oc": "Carriera dau Potz Caud",
+        "oneway": "no",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4447563,
+            43.5307644
+          ],
+          [
+            5.4452244,
+            43.5308865
+          ]
+        ]
+      },
+      "id": "way/595100765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/623438528",
+        "busway:right": "lane",
+        "highway": "residential",
+        "lanes": "3",
+        "lanes:bus": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours Sextius",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4441099,
+            43.5295651
+          ],
+          [
+            5.444084,
+            43.5294969
+          ],
+          [
+            5.4438617,
+            43.528913
+          ],
+          [
+            5.4436934,
+            43.5284198
+          ],
+          [
+            5.4436752,
+            43.5283635
+          ],
+          [
+            5.4433656,
+            43.5275504
+          ],
+          [
+            5.4433478,
+            43.5275036
+          ]
+        ]
+      },
+      "id": "way/623438528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653374059",
+        "cycleway:right": "no",
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue des Étuves",
+        "name:oc": "Carriera deis Estubas",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source:maxspeed": "FR:zone30",
+        "source:name:oc": "ieo-bdtopoc",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4447609,
+            43.5318902
+          ],
+          [
+            5.444773,
+            43.5318722
+          ],
+          [
+            5.4448314,
+            43.5317803
+          ],
+          [
+            5.4448392,
+            43.5317636
+          ],
+          [
+            5.4448567,
+            43.5317259
+          ]
+        ]
+      },
+      "id": "way/653374059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/682897554",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue de la Treille",
+        "name:oc": "Carriera de la Trelha",
+        "oneway": "yes",
+        "source:maxspeed": "FR:zone30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4443878,
+            43.5306736
+          ],
+          [
+            5.4444232,
+            43.5305842
+          ],
+          [
+            5.4445004,
+            43.5303891
+          ],
+          [
+            5.4444864,
+            43.5301751
+          ]
+        ]
+      },
+      "id": "way/682897554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/688201682",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours Sextius",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4440688,
+            43.5305451
+          ],
+          [
+            5.4440845,
+            43.530511
+          ],
+          [
+            5.4441545,
+            43.5303592
+          ],
+          [
+            5.4441858,
+            43.5301544
+          ],
+          [
+            5.4441295,
+            43.529717
+          ],
+          [
+            5.444122,
+            43.5296585
+          ],
+          [
+            5.4441179,
+            43.5296269
+          ],
+          [
+            5.4441099,
+            43.5295651
+          ]
+        ]
+      },
+      "id": "way/688201682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/827295089",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Traverse Sylvacanne",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4429886,
+            43.532274
+          ],
+          [
+            5.4430136,
+            43.5322024
+          ],
+          [
+            5.4430344,
+            43.5321428
+          ],
+          [
+            5.4430763,
+            43.5320562
+          ],
+          [
+            5.4431888,
+            43.5319696
+          ],
+          [
+            5.443637,
+            43.5316458
+          ],
+          [
+            5.443689,
+            43.5315254
+          ]
+        ]
+      },
+      "id": "way/827295089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1256899069",
+        "access": "private",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed:type": "FR:urban",
+        "name": "Avenue des Thermes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4443162,
+            43.5304217
+          ],
+          [
+            5.4443105,
+            43.530456
+          ],
+          [
+            5.4442846,
+            43.53051
+          ],
+          [
+            5.4441831,
+            43.5307218
+          ]
+        ]
+      },
+      "id": "way/1256899069"
+    }
+  ]
+}
