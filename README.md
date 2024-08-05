@@ -59,14 +59,14 @@ Un dossier par sortie terrain
 
 ```
 terrain_data                      
-	raw
-        Aix Faubourg                      # troisième sortie
-        Lorgues                           # seconde sortie
-        Pole d'activité d'aix en provence # première sortie
-	processed
-        Aix Faubourg
-        Lorgues
-        Pole d'activité d'aix en provence
+  raw
+    Aix Faubourg                      # troisième sortie
+    Lorgues                           # seconde sortie
+    Pole d'activité d'aix en provence # première sortie
+  processed
+    Aix Faubourg
+    Lorgues
+    Pole d'activité d'aix en provence
 ```
 
 ## 📲 Matériel terrain utilisé
@@ -161,6 +161,7 @@ Les notebooks ont servi à préparer les scripts QGIS. Ils sont dans le dossier 
 | 17-Export-GPKG-Layers-For-JOSM--MR.ipynb                     | Exporte les différentes couches contenues dans un GPKG unique issu de SWMaps | Terrain       |
 | 18-Données-OSM-Alaeddine                                     | Récupérer les données saisies par un utilisateur             | Terrain       |
 | 19-Audit-Qualité-Données-Aix-Faubourg.ipynb                  | Précision des objets saisis et des zones de saisie           | Terrain       |
+| 20-Largeur-Trottoirs.ipynb                                   | Récupération des trottoirs, calcul de la ligne médiane et de la largeur du trottoir | Terrain       |
 
 Pour les ouvrir :
 
