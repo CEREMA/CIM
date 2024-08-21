@@ -225,14 +225,12 @@ xxx
 
 - tree_row
 
-#### 🚶‍♀️ Trottoirs
+### 🚶‍♀️ Trottoirs
+
+#### OSM
 
 - https://wiki.openstreetmap.org/wiki/Key:sidewalk
 - https://wiki.openstreetmap.org/wiki/Key:width
-- https://wiki.openstreetmap.org/wiki/Opensidewalkmap
-- opensidewalkmap https://x.com/asturksever/status/1802702457295818931/photo/1
-- walkabout https://tasks.mapwith.ai/projects/165
-- OSMontrouge https://data.osmontrouge.fr/explore/dataset/emprise-des-trottoirs/information/
 - Cartographier les trottoirs
   - area:highway=footway
     - https://forum.openstreetmap.fr/t/les-trottoirs-sont-des-surfaces/21552/16
@@ -241,6 +239,39 @@ xxx
       - *This tag is not the same as `highway=footway` + `area=yes` which represents a non-linear feature such as a square or plaza where multi-directional travel is possible.*
 
     - https://wiki.openstreetmap.org/wiki/Talk:Tag:highway%3Dfootway#Mapping_footway_as_square_is_an_incorrect_tagging_for_renderer
+
+- https://wiki.openstreetmap.org/wiki/Guidelines_for_pedestrian_navigation
+
+#### opensidewalkmap
+
+- https://wiki.openstreetmap.org/wiki/Opensidewalkmap
+- opensidewalkmap https://x.com/asturksever/status/1802702457295818931/photo/1
+
+#### walkabout
+
+- walkabout https://tasks.mapwith.ai/projects/165
+- https://www.youtube.com/watch?v=lb8mErptKM8&t=6s
+
+#### Projets fr
+
+- OSMontrouge https://data.osmontrouge.fr/explore/dataset/emprise-des-trottoirs/information/
+
+#### OpenSideWalks
+
+- https://tasks.opensidewalks.com/
+- https://www.youtube.com/watch?v=mXp7fCL6CPw
+- https://www.youtube.com/watch?v=_AczR5YHPdw
+
+#### ShareStreets
+
+- [https://sharedstreets.io/](https://github.com/sharedstreets)
+- https://github.com/sharedstreets
+- https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148
+
+#### curblr
+
+- https://curblr.org/
+- https://www.azavea.com/blog/2020/07/07/maintaining-data-on-the-curb-with-curblr-a-new-open-standard/
 
 
 ### Applis mobiles OSM
