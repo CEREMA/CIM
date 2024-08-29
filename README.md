@@ -1,6 +1,6 @@
-# City Information Modeling
+# Towards City Information Modeling
 
-![](https://live.staticflickr.com/5074/14237749595_bf0e61ae25_w_d.jpg)
+<img src="thumbnail/imagette.png">
 
 / Image composite : terrain (Mapillary) => JNT /
 
@@ -74,7 +74,7 @@ terrain_data
 ![](imagematos)
 
 - GOPRO xxx
-- RTK Centipede
+- Récepteur Centipede xxx
 - Smartphone avec le logiciel SWMaps + tests QField + test [Lefebure NTRIP Client](https://play.google.com/store/apps/details?id=com.lefebure.ntripclient&hl=fr)
 
 ## ⚙ Scripts QGIS
@@ -120,7 +120,7 @@ Voici comment installer une nouvelle librairie python dans QGIS sous Windows :
 
 ### Utilisation
 
-Pour utiliser un script dans QGIS, il faut 
+Pour utiliser un script dans QGIS, il faut :
 
 xxx
 
