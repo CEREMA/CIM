@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='12086793251' timestamp='2024-08-01T08:28:37Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154681830' lat='43.529672625' lon='5.44373187833'>
+    <tag k='natural' v='tree' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12086793252' timestamp='2024-08-01T08:28:37Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154681830' lat='43.52961895833' lon='5.44375597167'>
+    <tag k='natural' v='tree' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FLOAT)' />
+  </node>
+  <node id='12086793253' timestamp='2024-08-01T08:28:37Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154681830' lat='43.52960845833' lon='5.44377774167'>
+    <tag k='natural' v='tree' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FLOAT)' />
+  </node>
+  <node id='12086793254' timestamp='2024-08-01T08:28:37Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154681830' lat='43.52958946' lon='5.44389305333'>
+    <tag k='natural' v='tree' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12086793255' timestamp='2024-08-01T08:28:37Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154681830' lat='43.52962027435' lon='5.4439074177'>
+    <tag k='natural' v='tree' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FLOAT)' />
+  </node>
+  <node id='12086793256' timestamp='2024-08-01T08:28:37Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154681830' lat='43.52959522' lon='5.44399091167'>
+    <tag k='natural' v='tree' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12086793257' timestamp='2024-08-01T08:28:37Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154681830' lat='43.52964535167' lon='5.44382371167'>
+    <tag k='natural' v='tree' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+</osm>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='12084987280' timestamp='2024-07-31T11:42:33Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154645126' lat='43.53134115' lon='5.44373646833'>
+    <tag k='emergency' v='fire_hydrant' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+</osm>

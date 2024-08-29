@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='12084965476' timestamp='2024-07-31T11:14:13Z' uid='21291231' user='Alaeddinejerad' version='2' changeset='154643925' lat='43.53136953167' lon='5.44358921333'>
+    <tag k='barrier' v='block' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084965477' timestamp='2024-07-31T11:14:13Z' uid='21291231' user='Alaeddinejerad' version='2' changeset='154643925' lat='43.53145567833' lon='5.44362564667'>
+    <tag k='barrier' v='block' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084965478' timestamp='2024-07-31T11:14:13Z' uid='21291231' user='Alaeddinejerad' version='2' changeset='154643925' lat='43.53149319333' lon='5.44379047833'>
+    <tag k='barrier' v='block' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+</osm>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='12086820889' timestamp='2024-08-01T08:54:07Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154682849' lat='43.529968515' lon='5.44195860167'>
+    <tag k='amenity' v='waste_basket' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12086820890' timestamp='2024-08-01T08:54:07Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154682849' lat='43.52994776667' lon='5.44196329833'>
+    <tag k='amenity' v='waste_basket' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12086820891' timestamp='2024-08-01T08:54:07Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154682849' lat='43.5301006' lon='5.44131523667'>
+    <tag k='amenity' v='waste_basket' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FLOAT)' />
+  </node>
+  <node id='12086820892' timestamp='2024-08-01T08:54:07Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154682849' lat='43.53004460833' lon='5.44138110167'>
+    <tag k='amenity' v='waste_basket' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12086820893' timestamp='2024-08-01T08:54:07Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154682849' lat='43.53075275333' lon='5.44038911667'>
+    <tag k='amenity' v='waste_basket' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FLOAT)' />
+  </node>
+  <node id='12086820894' timestamp='2024-08-01T08:54:07Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154682849' lat='43.530631235' lon='5.440216315'>
+    <tag k='amenity' v='waste_basket' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FLOAT)' />
+  </node>
+</osm>

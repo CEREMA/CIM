@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='12085003435' timestamp='2024-07-31T11:53:21Z' uid='21291231' user='Alaeddinejerad' version='2' changeset='154645554' lat='43.53148216667' lon='5.44370894667'>
+    <tag k='camera:mount' v='pole' />
+    <tag k='camera:type' v='dome' />
+    <tag k='man_made' v='surveillance' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+    <tag k='surveillance' v='public' />
+    <tag k='surveillance:type' v='camera' />
+    <tag k='surveillance:zone' v='street' />
+  </node>
+</osm>

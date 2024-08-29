@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='12082821989' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112' lat='43.531451555' lon='5.44372133167' />
+  <node id='12082821990' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112' lat='43.53150056167' lon='5.44377742333' />
+  <node id='12082821991' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112' lat='43.53150791167' lon='5.44376822333' />
+  <node id='12082821992' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112' lat='43.53148032833' lon='5.44365939333' />
+  <node id='12082821993' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112' lat='43.53146940833' lon='5.44363385333' />
+  <node id='12082821994' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112' lat='43.53131736' lon='5.44362373167' />
+  <node id='12082821995' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112' lat='43.53132035' lon='5.44365035333' />
+  <node id='12082821996' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112' lat='43.53139342667' lon='5.44369857833' />
+  <node id='12082821997' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112' lat='43.531413335' lon='5.44369092' />
+  <node id='12082821998' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112' lat='43.53144478' lon='5.44360552167' />
+  <node id='12082821999' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112' lat='43.53142752167' lon='5.443596165' />
+  <way id='1304620997' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112'>
+    <nd ref='12082821993' />
+    <nd ref='12082821992' />
+    <nd ref='12082821991' />
+    <nd ref='12082821990' />
+    <nd ref='12082821989' />
+    <nd ref='12082821993' />
+    <tag k='footway' v='traffic_island' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='Relevés terrain avec RTK Centipede (station SIGEO)' />
+  </way>
+  <way id='1304620998' timestamp='2024-07-30T10:28:55Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154599112'>
+    <nd ref='12082821999' />
+    <nd ref='12082821998' />
+    <nd ref='12082821997' />
+    <nd ref='12082821996' />
+    <nd ref='12082821995' />
+    <nd ref='12082821994' />
+    <nd ref='12082821999' />
+    <tag k='footway' v='traffic_island' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='Relevés terrain avec RTK Centipede (station SIGEO)' />
+  </way>
+</osm>

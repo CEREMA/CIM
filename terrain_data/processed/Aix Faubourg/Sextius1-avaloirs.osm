@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='12084658002' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.531375915' lon='5.443538385'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658003' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.53126855333' lon='5.443725405'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658004' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.5312875' lon='5.44371591333'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658005' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.53129715167' lon='5.44370165833'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658006' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.53132976963' lon='5.44374217722'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658007' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.53140830167' lon='5.44377651667'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658008' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.531439585' lon='5.44382198'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658009' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.5314445' lon='5.44380153667'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658010' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.53147872833' lon='5.44383114167'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658011' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.53147120167' lon='5.44371643833'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658012' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.53142821' lon='5.443687155'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658013' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.53141528333' lon='5.44366736667'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658014' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.531416915' lon='5.44360387667'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658015' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.531382735' lon='5.44365456333'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658016' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.531495655' lon='5.44375711833'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+  <node id='12084658017' timestamp='2024-07-31T08:48:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154637746' lat='43.53139668833' lon='5.44363753167'>
+    <tag k='man_made' v='manhole' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+  </node>
+</osm>

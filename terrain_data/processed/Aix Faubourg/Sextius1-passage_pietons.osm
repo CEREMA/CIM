@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='12085038957' timestamp='2024-07-31T12:14:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154646452' lat='43.53139669833' lon='5.44355193' />
+  <node id='12085038958' timestamp='2024-07-31T12:14:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154646452' lat='43.53140193167' lon='5.443605955' />
+  <node id='12085038959' timestamp='2024-07-31T12:14:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154646452' lat='43.53147210333' lon='5.44373930667' />
+  <node id='12085038960' timestamp='2024-07-31T12:14:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154646452' lat='43.53145120833' lon='5.44379074333' />
+  <way id='1304825024' timestamp='2024-07-31T12:14:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154646452'>
+    <nd ref='12085038958' />
+    <nd ref='12085038957' />
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='footway' v='crossing' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+    <tag k='tactile_paving' v='yes' />
+  </way>
+  <way id='1304825025' timestamp='2024-07-31T12:14:24Z' uid='21291231' user='Alaeddinejerad' version='1' changeset='154646452'>
+    <nd ref='12085038960' />
+    <nd ref='12085038959' />
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='footway' v='crossing' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='Relevés terrain avec Rover Centipede (station: SIGEO, Précision: RTK FIX)' />
+    <tag k='tactile_paving' v='yes' />
+  </way>
+</osm>

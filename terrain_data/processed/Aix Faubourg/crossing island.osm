@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='12084597398' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.52961382814' lon='5.44419413416' />
+  <node id='12084597399' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.529610425' lon='5.4441907814' />
+  <node id='12084597400' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.52960823726' lon='5.44418290241' />
+  <node id='12084597401' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.529610425' lon='5.44417435287' />
+  <node id='12084597402' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.52961552971' lon='5.444169659' />
+  <node id='12084597403' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.52968699559' lon='5.44418122603' />
+  <node id='12084597404' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.52969161413' lon='5.44418323768' />
+  <node id='12084597405' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.52969489573' lon='5.44418675808' />
+  <node id='12084597406' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.52969732654' lon='5.44419195486' />
+  <node id='12084597407' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.5296978127' lon='5.44419832511' />
+  <node id='12084597408' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.52969684037' lon='5.44420301897' />
+  <node id='12084597409' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.52969380186' lon='5.44420989214' />
+  <node id='12084597410' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.529688211' lon='5.44421492128' />
+  <node id='12084597411' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.52967994624' lon='5.44421341253' />
+  <node id='12084597412' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529' lat='43.5296636598' lon='5.44420821575' />
+  <way id='1304787136' timestamp='2024-07-31T08:16:44Z' uid='21291231' user='Alaeddinejerad' visible='true' version='1' changeset='154636529'>
+    <nd ref='12084597412' />
+    <nd ref='12084597411' />
+    <nd ref='12084597410' />
+    <nd ref='12084597409' />
+    <nd ref='12084597408' />
+    <nd ref='12084597407' />
+    <nd ref='12084597406' />
+    <nd ref='12084597405' />
+    <nd ref='12084597404' />
+    <nd ref='12084597403' />
+    <nd ref='12084597402' />
+    <nd ref='12084597401' />
+    <nd ref='12084597400' />
+    <nd ref='12084597399' />
+    <nd ref='12084597398' />
+    <nd ref='12084597412' />
+    <tag k='foot' v='yes' />
+    <tag k='footway' v='traffic_island' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='Plan Cadastral Informatisé (PCI), Ortho HR IGN 2023' />
+    <tag k='surface' v='asphalt' />
+  </way>
+</osm>
