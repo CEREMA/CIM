@@ -31,12 +31,11 @@ pip install -r requirements.txt
 ## 📂 Contenu
 
 ```
-data_open      # Données ouvertes, disponibles sur les portails
+open_data      # Données ouvertes, disponibles sur les portails, les APIs comme celle de Mapillary, OSM, etc
 terrain_data   # Données terrain
 terrain_photos # Echantillon de photos prises sur le terrain
-cartes         # Cartes de préparation terrain + restitutions micro-cartographiques
 notebooks      # Notebooks Python
-qgis_projets   # Projets QGIS
+qgis_projets   # Projets QGIS contenant les données, les styles et les cartes
 qgis-scripts   # Scripts QGIS
 livrables      # Livrables (rapport + projet blender)
 ```
@@ -73,8 +72,8 @@ terrain_data
 
 ![](imagematos)
 
-- GOPRO xxx
-- Récepteur Centipede xxx
+- GOPRO : xxx
+- Récepteur Centipede type ROver RTK: xxx
 - Smartphone avec le logiciel SWMaps + tests QField + test [Lefebure NTRIP Client](https://play.google.com/store/apps/details?id=com.lefebure.ntripclient&hl=fr)
 
 ## ⚙ Scripts QGIS
@@ -86,7 +85,6 @@ Eclairage_bbox.py
 Eclairage_DATASUD_bbox.py
 Eclairage_mly_bbox.py
 Eclairage_OSM_bbox.py
-mapillary-key.txt
 ```
 
 ### ⚠ Prérequis
