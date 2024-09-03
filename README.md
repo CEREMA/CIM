@@ -2,17 +2,14 @@
 
 <img src="thumbnail/imagette.png">
 
-Ce répertoire contient xxx
+Ce répertoire contient le travail effectué dans le cadre de mon stage de fin d’études M2 GLET à l’Université d’Orléans, ce travail a été réalisé au sein du Groupe Ingénierie de la Donnée et Innovation (GIDI) du Département Territoire, Ville et Bâtiment (DTVB) du Cerema Méditerranée, en collaboration avec le Groupe Aménagement Urbains (GAU), du 15 mars au 30 août 2024.
 
-Il a été réalisé pendant mon stage de xxx mois au Cerema Med.
+Mon projet a porté sur l’élaboration d’une démarche de mise en œuvre d’un Open City Information Modeling (CIM) pour des projets d’urbanisme en région Provence-Alpes-Côte d’Azur. Cette démarche comprend la sélection d’outils, des méthodes et de bases de données urbaines ouvertes centrées sur la transition écologique, permettant l’élaboration des maquettes numériques urbaines. Cette démarche a été expérimentée principalement sur le centre-ville de Lorgues, dont le besoin était axé sur la thématique de la marchabilité et la piétonisation du boulevard George Clémenceau, ainsi que sur la commune d’Aix-en-Provence ou des essais ont été effectués.
 
-Pendant ce stage, j'ai xxx sur ces territoires xxx
-
-Sur le territoire de xxx, j'ai xxx
-
-Sur le territoire de xxx, j'ai xxx
-
-/ Parler de la marchabilité, de l'accessibilité /
+Pendant ce stage, j'ai réalisé l’inventaire des données mobilisables pour la cartographie fine sur les sites retenus afin de récupérer les données ouvertes depuis les plateformes et les API disponibles et de collecter ldes données sur les terrains suiavants :
+- le territoire d'essai Pôle d’activités d’Aix-en-Provence où j'ai collecté des vues immersives de la rue et enregistré une trace RTK ;
+- le territoire d'étude pricipale de Lorgues où j'ai collecté des vues immersives et j'ai fait des relevés des objets du mobilier urbain pouvant impacter la marchabilité et l'accessibilité des trottoirs ;
+- le territoire du quartier du Faubourg (3 zones : deux parties du Cours Sextius (partie haute et l’intersection avec Rue Van Loo et Rue des Cordeliers) et la Rue Emile Tavan) où j'ai fait des relevés des objets du mobilier urbain pouvant impacter la marchabilité et l'accessibilité des trottoirs. Cette sortie m'a permis de  rattraper la sortie terrain de Lorgues en améliorant la précision et la fiabilité des données collectées et comprendre les conditions d'utilisation du Rover RTK tout en observant la qualité du signal selon l'environnement et évaluer le temps d'intervention nécessaire pour requalifier une rue ;
 
 Auteur : Alaeddine JERAD ([compte OpenStreetMap](https://www.openstreetmap.org/user/Alaeddinejerad))
 
@@ -70,8 +67,8 @@ terrain_data
 
 ![](imagematos)
 
-- GOPRO : xxx
-- Récepteur Centipede type ROver RTK: xxx
+- Caméra Gopro Hero 5 : xxx
+- Récepteur Centipede type Rover RTK: xxx
 - Smartphone avec le logiciel SWMaps + tests QField + test [Lefebure NTRIP Client](https://play.google.com/store/apps/details?id=com.lefebure.ntripclient&hl=fr)
 
 ## ⚙ Scripts QGIS
