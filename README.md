@@ -67,9 +67,28 @@ terrain_data
 
 ![](imagematos)
 
-- Caméra Gopro Hero 5 : xxx
-- Récepteur Centipede type Rover RTK: xxx
-- Smartphone avec le logiciel SWMaps + tests QField + test [Lefebure NTRIP Client](https://play.google.com/store/apps/details?id=com.lefebure.ntripclient&hl=fr)
+- le territoire d'essai Pôle d’activités d’Aix-en-Provence :
+  Une voiture ;
+  1 caméra Gopro Hero 5 + système de ventouse pour la voiture ;
+  1 chargeur de batterie et un câble USB pour charger la GoPro ;
+  4 Batteries (1 + 3 secours) ;
+  1 carte miniSD (64GB) ;
+  1 Centipede Rover RTK ;
+  1 smartphone muni de l’application Quik de contrôle des caméras ;
+  1 smartphone muni de l’application SW Maps pour se connecter avec le Rover RTK afin d’enregistrer et exporter les données collectées
+  
+- le territoire d'étude pricipale de Lorgues :
+  1 caméra Gopro Hero 5 ;
+  1 accessoire GoPro Harnais de poitrine ;
+  4 Batteries (1 + 3 secours) ;
+  1 Centipede Rover RTK ;
+  1 mètre ;
+  1 smartphone muni de l’application Quik de contrôle des caméras ;
+  1 smartphone muni de l’application SW Maps pour se connecter avec le Rover RTK afin d’enregistrer et exporter les données collectées
+
+- le territoire du quartier du Faubourg :
+  1 Centipede Rover RTK ;
+  1 Smartphone avec le logiciel SWMaps + tests QField + test [Lefebure NTRIP Client](https://play.google.com/store/apps/details?id=com.lefebure.ntripclient&hl=fr)
 
 ## ⚙ Scripts QGIS
 
@@ -114,8 +133,12 @@ Voici comment installer une nouvelle librairie python dans QGIS sous Windows :
 ### Utilisation
 
 Pour utiliser un script dans QGIS, il faut :
-
-xxx
+- Ouvrir QGIS ;
+- Allez dans le menu "Extensions" > "Console Python" pour accéder à l'interface où vous pourrez exécuter des scripts Python ;
+- Ouvrir l'éditeur de scripts : Dans la console Python, cliquez sur l'icône en forme de crayon pour ouvrir l'éditeur de scripts Python intégré à QGIS ;
+- Importer le script : Dans l'éditeur, allez dans "Fichier" > "Ouvrir un script..." et sélectionnez le fichier .py que vous souhaitez importer. Le contenu du script s'affichera dans l'éditeur ;
+- Exécuter le script : Une fois le script importé, cliquez sur le bouton "Exécuter le script". Le script s'exécutera dans l'environnement QGIS, et vous pourrez voir les résultats ou les messages dans la console Python ;
+- Vérifier les résultats : Les résultats seront visibles directement dans la carte.
 
 ## 🐍 Notebooks Python
 
@@ -170,11 +193,11 @@ jupyter notebook
 
 ## 🗺 Projets QGIS
 
-xxx
+Il s'agit de 3 projets QGIS pour la présentation des objets et traces RTK collectés et récupérés dans le périmètre d'étude de Lorgue, le territoire de rattrapage Aix Faubourg et le territoire d'essai Pole d'activité d'aix en provence.
 
 ## 🤖 Projet Blender
 
-xxx
+Pour l'instant, le projet blender contient une maquette numérique 3D présentant les données OSM suivantes : MNT, les batiments (avec la forme de toits et des façades) ainsi que les routes.
 
 ## 📷 Recalage des photos avec JOSM
 
@@ -193,8 +216,7 @@ xxx
 - Bibliographie Zotero : https://www.zotero.org/groups/5458220/cim-dtermed/library
 - Notebooks Python
 - Scripts QGIS
-- Non réalisé
-  - Data Management Plan
+- Non réalisé : scripts pour le calcul des sous-indicateurs de marchabilité dans les sites choisis.
 
 
 ## 📚 Ressources
