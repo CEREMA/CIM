@@ -2,8 +2,6 @@
 
 <img src="thumbnail/imagette.png">
 
-/ Image composite : terrain (Mapillary) => JNT /
-
 Ce répertoire contient xxx
 
 Il a été réalisé pendant mon stage de xxx mois au Cerema Med.
