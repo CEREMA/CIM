@@ -19,7 +19,7 @@ Auteur : Alaeddine JERAD ([compte OpenStreetMap](https://www.openstreetmap.org/u
 git clone https://github.com/CEREMA/CIM.git
 cd CIM
 python -m venv venv
-venv\script\activate
+venv\scripts\activate
 pip install -r requirements.txt
 ```
 
